@@ -1,0 +1,11 @@
+{
+  "name": "testpersonnummer",
+  "version": "1.0.0",
+  "description": "Collection of testpersonnummer from skatteverket",
+  "main": "lib/index.js",
+  "scripts": {
+    "generate": "node generate.mjs"
+  },
+  "author": "Gustav Ahlberg",
+  "license": "ISC"
+}
