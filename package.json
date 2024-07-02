@@ -4,7 +4,8 @@
   "description": "Collection of testpersonnummer from skatteverket",
   "main": "lib/index.js",
   "scripts": {
-    "generate": "node generate.mjs"
+    "generate": "node generate.mjs",
+    "test": "node test.js"
   },
   "author": "Gustav Ahlberg",
   "license": "ISC"
