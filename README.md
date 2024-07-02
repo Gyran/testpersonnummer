@@ -5,10 +5,10 @@ https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/oppet
 ## Usage
 
 ```js
-const testpersonnummer = require('testpersonnummer');
+const testpersonnummer = require("testpersonnummer");
 const personnummer = testpersonnummer[4];
 ```
 
 ## Generate
 
-Download all csv files into `data/` and run `npm run generate`
+Run `npm run generate` to download all testpersonnummer from skatteverket and generate the lib file.
